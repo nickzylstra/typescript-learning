@@ -1,8 +1,7 @@
 {
   "name": "typescript-learn",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "learning typescript",
   "scripts": {
     "run": "node dist/main.js",
     "build": "npm run build:ts && npm run lint",
